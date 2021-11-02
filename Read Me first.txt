@@ -5,4 +5,4 @@ You need to open the file change.txt at your end and on the next line you just h
 After editing you have to commit the changes and to do that you will find the button "Commit Changes" by 
 scrolling down a bit.
 
-I am a User accessing your file.
+
